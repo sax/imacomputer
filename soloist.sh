@@ -77,6 +77,7 @@ recipes:
 - pivotal_workstation::workspace_directory
 - pivotal_workstation::xquartz
 - pivotal_workstation::sourcetree
+- pivotal_workstation::1password
 EOF
 if [[ -d pivotal_workstation ]]; then
   cd pivotal_workstation && git pull && cd ..
