@@ -1,17 +1,19 @@
+brew install Caskroom/cask/iterm2
+brew install Caskroom/cask/bittorrent-sync
+brew install Caskroom/cask/google-drive
 brew install Caskroom/cask/rubymine
 brew install Caskroom/cask/shiftit
 brew install Caskroom/cask/1password
+brew install Caskroom/cask/java
 brew install postgresql
 brew install memcached
 brew install redis
 brew install rabbitmq
-brew install Caskroom/cask/java
 brew install elasticsearch
 brew install nginx
 brew install hub
-brew install Caskroom/cask/bittorrent-sync
-brew install Caskroom/cask/iterm2
-brew install Caskroom/cask/google-drive
+brew install libxslt
+brew install qt
 brew install chruby
 brew install ruby-build
 
