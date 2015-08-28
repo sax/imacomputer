@@ -8,6 +8,7 @@ brew install Caskroom/cask/java
 brew install Caskroom/cask/vagrant
 brew install Caskroom/cask/atom
 brew install Caskroom/cask/rowanj-gitx
+brew install Caskroom/cask/virtualbox
 brew install postgresql
 brew install memcached
 brew install redis
